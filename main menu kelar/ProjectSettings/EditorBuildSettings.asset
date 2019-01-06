@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scene/AfterMenu.unity
     guid: 25ab665b901151049be87897800fa17d
   - enabled: 1
+    path: Assets/Scene/LevelManager.unity
+    guid: 14bf8f44f987d2d4aac5fd2761b0bdab
+  - enabled: 1
     path: Assets/Scene/tes.unity
     guid: ebe2f2cb327343c4999900d7bb420e55
+  - enabled: 1
+    path: Assets/Scene/map2.unity
+    guid: b24fb0458271fe84a8076fc98e90e2ce
   m_configObjects: {}

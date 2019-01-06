@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\GoToGame.cs" />
+    <Compile Include="Assets\Script\LevelChooser.cs" />
     <Compile Include="Assets\Script\mainmenu.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\PlayerMove.cs" />
