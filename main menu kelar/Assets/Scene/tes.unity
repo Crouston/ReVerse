@@ -798,6 +798,10 @@ Prefab:
       propertyPath: m_TagString
       value: Ground
       objectReference: {fileID: 0}
+    - target: {fileID: 1532952170039308, guid: 1467be659c4c0b143ad618bdcb039852, type: 2}
+      propertyPath: m_TagString
+      value: Water
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1467be659c4c0b143ad618bdcb039852, type: 2}
   m_IsPrefabAsset: 0

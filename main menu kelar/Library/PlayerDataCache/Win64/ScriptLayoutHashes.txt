@@ -4,7 +4,9 @@ D:/ReVerse/ReVerse.exe
 SceneListBegin?
 Assets/Scene/Menu.unity
 Assets/Scene/AfterMenu.unity
+Assets/Scene/LevelManager.unity
 Assets/Scene/tes.unity
+Assets/Scene/map2.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -138,6 +140,7 @@ dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DragRigidbody
 96f3ea9f23b6f08e60710ebb4af49174 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 fa1c317e7807ba3c9b05056693f277ff Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.Joystick
+d09811f582918233f8973ae72370395f Assembly-CSharp.dll:.LevelChooser
 4ea8d9566bdcd2e6d7cf97aef45ed480 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.PlatformSpecificContent
 81d6a421cbac2031cd5e35b10c8ac717 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.ActivateTrigger
 502bd6834413bde615021a75226dbdcf Assembly-CSharp.dll:Tiled2Unity.TiledMap

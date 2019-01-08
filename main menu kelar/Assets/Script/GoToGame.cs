@@ -7,7 +7,7 @@ public class GoToGame : MonoBehaviour {
 
     void PlayGame()
     {
-        SceneManager.LoadScene("tes");
+        SceneManager.LoadScene("LevelManager");
     }
 	// Use this for initialization
 	void Start () {
