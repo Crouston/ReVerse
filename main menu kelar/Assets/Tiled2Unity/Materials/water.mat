@@ -25,4 +25,4 @@ Material:
     m_Floats:
     - PixelSnap: 0
     m_Colors:
-    - _Color: {r: 0.35422808, g: 0.32720718, b: 0.5377358, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
