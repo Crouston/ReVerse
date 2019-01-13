@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 683, y: 492}
-  m_MaxSize: {x: 14004, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 95
+  controlID: 34
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 1088
     height: 731
-  m_MinSize: {x: 406, y: 492}
+  m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 96
+  controlID: 35
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,10 +154,10 @@ MonoBehaviour:
     y: 0
     width: 1088
     height: 405
-  m_MinSize: {x: 406, y: 221}
-  m_MaxSize: {x: 8006, y: 4021}
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 97
+  controlID: 36
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,8 +201,8 @@ MonoBehaviour:
     y: 0
     width: 763
     height: 405
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -256,8 +256,8 @@ MonoBehaviour:
     y: 0
     width: 448
     height: 731
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -369,9 +369,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: cad8edff
-    m_LastClickedID: -1189686
-    m_ExpandedIDs: 48d9edff0aebedffccd6feffced6feffd2d6fefff6d6feff86d4ffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 827efeff4e7ffeffde80feff3881feff3e81feff4481feff5081feff4e89feffbe2fffff8830ffff7232ffffe032ffffe832fffff232fffffe32ffffc434ffffac38ffffd26effff986fffff7e71ffff8271ffff8871ffff8e71ffff9a71ffffeac9ffffeec9ffff0acaffff0ccaffff3af6fffffef6ffffe4f8ffff4ef9ffff54f9ffff5af9ffff5ef9ffffe4fbffff00000000ae400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -426,9 +426,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 35.638416, y: -37.326866, z: -9.21875}
+    m_Target: {x: 230.69528, y: 141.76115, z: -13.978778}
     speed: 2
-    m_Value: {x: 35.638416, y: -37.326866, z: -9.21875}
+    m_Value: {x: 230.69528, y: 141.76115, z: -13.978778}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -460,9 +460,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 59.190662
+    m_Target: 534.64777
     speed: 2
-    m_Value: 59.190662
+    m_Value: 534.64777
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -628,20 +628,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Music
+    - Assets/Scene
   m_ViewMode: 1
   m_StartGridSize: 68
   m_LastFolders:
-  - Assets/Music
+  - Assets/Scene
   m_LastFoldersGridSize: 68
   m_LastProjectPath: D:\GitHub\ReVerse\main menu kelar
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f0390000
-    m_LastClickedID: 14832
-    m_ExpandedIDs: 00000000dc350000f03500001436000000ca9a3b
+    scrollPos: {x: 0, y: 52}
+    m_SelectedIDs: d40b0000
+    m_LastClickedID: 3028
+    m_ExpandedIDs: 00000000fc0900002a0c0000920c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -669,7 +669,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000dc350000f035000014360000
+    m_ExpandedIDs: 00000000fc0900002a0c0000920c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
